@@ -341,6 +341,16 @@ database "MySql" {
 
 [Learn More](https://sli.dev/guide/syntax.html#diagrams)
 
+---
+layout: center
+class: text-center
+---
+
+# GraphQL
+ORM: Prisma https://www.prisma.io/
+> Alternative zu https://hasura.io/
+GraphQL: Apollo Server / Client https://www.apollographql.com/docs/apollo-server/
+Authorisierung: graphql-shield https://github.com/maticzav/graphql-shield
 
 ---
 layout: center

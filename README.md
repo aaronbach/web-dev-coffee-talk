@@ -1,6 +1,9 @@
 ![web-develoeper coffee-talk](assets/meetup-1200x675.png)
 
 # Meetup: web-dev-coffee-talk
+
+> Meetup: https://www.meetup.com/de-DE/munster-webentwickler-meetup-gruppe/
+
 Organizing the web-developer coffee talk in a developer style.
 
 This meetup is all about web-technologies. Example-topics we want to cover in the meetup are:

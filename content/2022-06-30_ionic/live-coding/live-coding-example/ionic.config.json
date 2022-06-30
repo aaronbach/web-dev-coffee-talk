@@ -1,0 +1,7 @@
+{
+  "name": "live-coding-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
